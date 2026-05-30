@@ -165,7 +165,10 @@ CLV Trend Analysis,
 Retention Analysis,
 
 # Screenshots
-Executive Overview Dashboard : 
-Customer Analytics Dashboard
-Product Analytics Dashboard
-Advanced Analytics & Trends Dashboard
+1. Executive Overview Dashboard : https://github.com/AnuradhaPhuse/E-Commerce-Dashboard/blob/main/E-comm%20overview.png
+
+2. Customer Analytics Dashboard : https://github.com/AnuradhaPhuse/E-Commerce-Dashboard/blob/main/E-comm%20customers.png
+
+3. Product Analytics Dashboard : https://github.com/AnuradhaPhuse/E-Commerce-Dashboard/blob/main/E-comm%20products.png
+ 
+4. Advanced Analytics & Trends Dashboard : https://github.com/AnuradhaPhuse/E-Commerce-Dashboard/blob/main/E-comm%20behaviour.png
